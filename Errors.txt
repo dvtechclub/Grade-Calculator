@@ -1,0 +1,5 @@
+1. There is a problem when submitting grades with presentation icon.
+
+2. Make 1st two rows fill up when submitting grades.
+
+3. exempt grades with grade
